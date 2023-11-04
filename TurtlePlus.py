@@ -1,6 +1,6 @@
 import turtle as tl
 
-# add more shapes
+# add shapes
 def square(float):
     for i in range(4):
         tl.forward(float)
@@ -29,6 +29,11 @@ def octagon(float):
 def zigzag(float):
     for i in range(float):
         tl.left(50)
-        tl.forward(35)
+        tl.forward(10)
         tl.right(50)
-        tl.forward(35)
+        tl.forward(10)
+        
+def curve(float):
+    for i in range(float):
+        tl.right(2.5) 
+        tl.forward(2.5)
