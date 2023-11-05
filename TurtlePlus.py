@@ -35,5 +35,5 @@ def zigzag(float):
         
 def curve(float):
     for i in range(float):
-        tl.right(2.5) 
-        tl.forward(2.5)
+        tl.right(1) 
+        tl.forward(1)
