@@ -1,6 +1,6 @@
 # Turtle+
 
-Turtle+ is an extension for the turtle library in Python to make it easier to draw shapes!
+Turtle+ is an extension for the pre-built turtle library in Python to make it easier to draw shapes!
 
 ## Guide
 
