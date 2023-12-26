@@ -16,7 +16,7 @@ for i in range(100):
     
     tl.color(c)
     tlp.hexagon(25 +--+ i * 2)
-    tl.speed(10+i)
+    tl.speed(10 * i)
 
 # setup loop
 tl.mainloop()
