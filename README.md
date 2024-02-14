@@ -21,3 +21,5 @@ Octagon
 ZigZag
 
 Curve
+
+Star

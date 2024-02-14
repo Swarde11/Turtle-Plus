@@ -37,3 +37,8 @@ def curve(float):
     for i in range(float):
         tl.right(1) 
         tl.forward(1)
+
+def star(float):
+    for i in range(5):
+        tl.forward(float)
+        tl.right(144)
